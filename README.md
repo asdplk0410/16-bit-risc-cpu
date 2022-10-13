@@ -1,4 +1,4 @@
-# FPGA Systems Design and Practice (ET5009701)
+# FPGA Systems Design and Practice
 ## Term Project Report
 **Due: January 5, 2022**                 
 **Instructor: M. B. Lin**
